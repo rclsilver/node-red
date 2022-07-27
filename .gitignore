@@ -1,0 +1,8 @@
+# Data directory
+/data
+
+# docker-compose
+docker-compose.override.yml
+
+# VScode
+*.code-workspace

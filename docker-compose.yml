@@ -1,0 +1,7 @@
+services:
+  node-red:
+    image: rclsilver/node-red:latest
+    build:
+      context: .
+    ports:
+      - 1880:1880
